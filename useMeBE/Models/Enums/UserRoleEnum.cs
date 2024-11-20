@@ -1,6 +1,6 @@
 ﻿namespace useMeBE.Models.Enums
 {
-    public enum RoleEnum
+    public enum UserRoleEnum
     {
         Staff, 
         Chef,

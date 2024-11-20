@@ -2,7 +2,7 @@
 
 namespace useMeBE.Models.Enums
 {
-    public enum StatusEnum
+    public enum UserStatusEnum
     {
         Active,
         Offline
